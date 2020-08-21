@@ -1,0 +1,35 @@
+body{
+  background-color: grey;
+font-family: fantasy;
+}
+
+h1{text-align: center; color: blue;
+font-style: italic;font-weight: bolder;font-size: 150px}
+
+
+p{
+  text-align: center;
+  color: darkblue;
+}
+
+.bilde {
+  width:300px;
+  border-radius:50%;
+  border-color: blue;
+  border-width: thick;
+  border-style: dotted;
+  display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top: 40px;
+
+}
+
+
+.sitat{font-style: italic; font-size: 50px }
+
+.beskrivelse{margin-top:150px
+  font-weight: bold;
+  font-style: italic;
+  font-size: 100px
+}
